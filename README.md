@@ -24,7 +24,7 @@ Este projeto é um dashboard interativo desenvolvido com Streamlit para visualiz
 Clone este repositório na sua máquina local.
 
 ```bash
-git clone <URL-do-repositorio>
+git clone https://github.com/mprytolukinfnet/data.rio.git
 ```
 
 ### 2. Criar um Ambiente Virtual
